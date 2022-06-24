@@ -9,7 +9,10 @@
   "author": "Cornelius",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.7",
     "express": "^4.16.2",
-    "mongoose": "^6.4.0"
+    "lodash": "^4.17.21",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.18"
   }
 }
